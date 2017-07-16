@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zkclient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/zkclient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
